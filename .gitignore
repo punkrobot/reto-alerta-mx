@@ -1,0 +1,17 @@
+*.apk
+*.ap_
+*.dex
+*.class
+
+bin/
+gen/
+build/
+
+local.properties
+
+.gradle/
+
+.signing/
+
+.idea/
+*.iml
